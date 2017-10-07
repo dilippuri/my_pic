@@ -9,7 +9,7 @@ var span_width=span.width(),
 	span_height=span.height();
 span.remove();
 
-image.src='firefox.png';
+image.src='me.jpg';
 image.onload=function(){
 	var cnvs=document.createElement('canvas');
 	cnvs.width=image.width;

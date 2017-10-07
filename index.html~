@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Dilip Puri</title>
-   <link rel="stylesheet" type="text/css" href="../image-quine.css"></link>
+   <link rel="stylesheet" type="text/css" href="image-quine.css"></link>
   </head>
   <body>
     <div id="fox"></div>

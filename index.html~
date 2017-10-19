@@ -7,8 +7,8 @@
   <body>
     <div id="fox"></div>
 
-<!--	<div id="unsupported" style="display:none;">Your browser is not supported. Please use the latest Mozilla Firefox or Google Chrome or Safari</div> -->
-	<div id="download" style="display:none;">Like it? You can <a id="png" title="View as PNG" href="">save as image</a></div> 
+<!--	<div id="unsupported" style="display:none;">Your browser is not supported. Please use the latest Mozilla Firefox or Google Chrome or Safari</div> 
+	<div id="download" style="display:none;">Like it? You can <a id="png" title="View as PNG" href="">save as image</a></div> -->
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script>
